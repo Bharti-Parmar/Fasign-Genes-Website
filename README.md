@@ -2,7 +2,7 @@
 Website Created Using Bootstrap 4. HTML, CSS.
 
 # Tools
-Xampp, Myysql Workbench for Databse, Atom, Sublime, Ubuntu OS
+Xampp, Mysql Workbench for Database, Atom, Sublime, Ubuntu OS
 
 # Language / Skills
 Bootstrap 4 version 4.4.1, HTML, CSS, MySQL / SQL.
