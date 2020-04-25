@@ -1,6 +1,19 @@
 # Fasign-Genes-Website
 Website Created Using Bootstrap 4. HTML, CSS.
 
+# Details
+
+Here, UI Design in Bootstrap, HTML, CSS.
+
+I create the below website home page only. I am testing this design in desktop, iPad and ipad Pro.
+
+- For images, icons, colours you can use your own or use font awesome, iconic CDN for icons for create this page should look like same or different.
+
+I make
+-  Full Home page
+-  Showcase images realted to the tabs (when you tap on any tabs in that showcase list an images realted to the tab will open and showing all the image).
+
+
 # Screenshots
 
 # 1
