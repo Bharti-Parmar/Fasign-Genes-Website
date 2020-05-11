@@ -11,7 +11,7 @@ Bootstrap 4 version 4.4.1, HTML, CSS, MySQL / SQL.
 
 Here, UI Design in Bootstrap, HTML, CSS.
 
-I create the below website home page only. I am testing this design in desktop, iPad and ipad Pro.
+I create the below website home page only. I have done testing on this design for desktop, iPad and ipad Pro view.
 
 - For images, icons, colours you can use your own or use font awesome, iconic CDN for icons for create this page should look like same or different.
 
