@@ -17,7 +17,7 @@ I create the below website home page only. I have done testing on this design fo
 
 I make
 -  Full Home page
--  Showcase images realted to the tabs (when you tap on any tabs in that showcase list an images realted to the tab will open and showing all the image).
+-  Showcase images related to the tabs (when you tap on any tabs in that showcase list an images related to the tab will open and showing all the image).
 
 
 # Screenshots
